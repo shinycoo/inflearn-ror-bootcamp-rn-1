@@ -40,5 +40,6 @@ Rails.application.routes.draw do
   get 'post/list'
   
   get 'post/detail'
-
+  
+  get 'mobile/list'
 end
